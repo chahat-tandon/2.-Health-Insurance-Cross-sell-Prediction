@@ -1,4 +1,4 @@
-# 2.-Health-Insurance-Cross-sell-Prediction
+# Health-Insurance-Cross-sell-Prediction
 Built a model to help vehicle Insurance company build viable strategies for their business based on health plan demographics of an individual. 
 
 Task Details
